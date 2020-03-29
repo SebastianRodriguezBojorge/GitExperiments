@@ -1,7 +1,8 @@
-<Title goes here>
+Rainbow colors
 
 Red
 Orange
 Green
 Blue
-<Purple> 
+Purple
+Black
