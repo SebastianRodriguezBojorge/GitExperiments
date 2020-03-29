@@ -1,4 +1,5 @@
-Rainbow
+Rainbow colors
+
 
 Red
 Orange
@@ -6,3 +7,4 @@ Yellow
 Green
 Blue
 Purple
+Black
