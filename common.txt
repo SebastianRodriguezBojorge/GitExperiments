@@ -8,3 +8,5 @@ Green
 Blue
 Purple
 Black
+
+End of Rainbow
