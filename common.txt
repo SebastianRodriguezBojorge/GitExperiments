@@ -1,7 +1,8 @@
-<Title goes here>
+Rainbow
 
 Red
 Orange
+Yellow
 Green
 Blue
-<Purple> 
+Purple
