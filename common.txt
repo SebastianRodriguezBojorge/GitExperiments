@@ -1,6 +1,6 @@
 Rainbow colors
 
-
+White
 Red
 Orange
 Yellow
