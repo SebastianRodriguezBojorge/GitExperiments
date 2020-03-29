@@ -6,3 +6,6 @@ Yellow
 Green
 Blue
 Purple
+
+
+End of Rainbow
