@@ -9,4 +9,4 @@ Blue
 Purple
 Black
 
-=End of Rainbow=
+End of Rainbow
