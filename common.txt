@@ -1,12 +1,12 @@
 =Rainbow colors=
 
-White
-Red
-Orange
-Yellow
-Green
-Blue
-Purple
-Black
+=White
+=Red
+=Orange
+=Yellow
+=Green
+=Blue
+=Purple
+=Black
 
 End of Rainbow
