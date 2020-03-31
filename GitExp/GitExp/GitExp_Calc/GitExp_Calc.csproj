@@ -1,0 +1,17 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netstandard2.0</TargetFramework>
+    <PackageTags>Test Ignore Learning</PackageTags>
+    <Company>Digytall</Company>
+    <Product />
+    <Authors>sebastian.rb</Authors>
+    <Description>For testing purposes.
+Dismiss.</Description>
+    <PackageId>sebastianrb.Test.GitExp_Calc</PackageId>
+    <PackageLicenseExpression>MIT</PackageLicenseExpression>
+    <PackageProjectUrl>https://github.com/SebastianRodriguezBojorge/GitExperiments</PackageProjectUrl>
+    <PackageReleaseNotes>This is just a test.</PackageReleaseNotes>
+  </PropertyGroup>
+
+</Project>
